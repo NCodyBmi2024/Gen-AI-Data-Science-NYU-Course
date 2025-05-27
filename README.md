@@ -1,1 +1,1 @@
-# GenAI_Data_Science_2025
+# Gen AI Data Science NYU Course.
